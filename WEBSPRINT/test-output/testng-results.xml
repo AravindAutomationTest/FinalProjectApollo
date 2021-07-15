@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-15T21:18:39 IST" name="Default suite" finished-at="2021-07-15T21:19:23 IST" duration-ms="44183">
+    <groups>
+    </groups>
+    <test started-at="2021-07-15T21:18:39 IST" name="Default test" finished-at="2021-07-15T21:19:23 IST" duration-ms="44183">
+      <class name="librariesTest.testlogin">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:18:39 IST" name="initialization" finished-at="2021-07-15T21:19:12 IST" duration-ms="33449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="verifyLoginPage()[pri:1, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:12 IST" name="verifyLoginPage" finished-at="2021-07-15T21:19:12 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPage -->
+        <test-method signature="image_present_or_not()[pri:2, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:12 IST" name="image_present_or_not" finished-at="2021-07-15T21:19:12 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- image_present_or_not -->
+        <test-method signature="article_text()[pri:3, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:12 IST" name="article_text" finished-at="2021-07-15T21:19:12 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- article_text -->
+        <test-method signature="article_quotation()[pri:4, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:12 IST" name="article_quotation" finished-at="2021-07-15T21:19:12 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- article_quotation -->
+        <test-method signature="health_blog()[pri:5, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:12 IST" name="health_blog" finished-at="2021-07-15T21:19:13 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- health_blog -->
+        <test-method signature="health_blog_quotation()[pri:6, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:13 IST" name="health_blog_quotation" finished-at="2021-07-15T21:19:13 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- health_blog_quotation -->
+        <test-method signature="quote()[pri:6, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:13 IST" name="quote" finished-at="2021-07-15T21:19:13 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quote -->
+        <test-method signature="hi_name()[pri:7, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:13 IST" name="hi_name" finished-at="2021-07-15T21:19:13 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hi_name -->
+        <test-method signature="appointments()[pri:8, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:13 IST" name="appointments" finished-at="2021-07-15T21:19:17 IST" duration-ms="3901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appointments -->
+        <test-method signature="Text_Found_or_Not()[pri:9, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:17 IST" name="Text_Found_or_Not" finished-at="2021-07-15T21:19:17 IST" duration-ms="279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Text_Found_or_Not -->
+        <test-method signature="meds()[pri:10, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:17 IST" name="meds" finished-at="2021-07-15T21:19:22 IST" duration-ms="5459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- meds -->
+        <test-method signature="labtests()[pri:11, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:22 IST" name="labtests" finished-at="2021-07-15T21:19:22 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- labtests -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:librariesTest.testlogin@1e04fa0a]" started-at="2021-07-15T21:19:22 IST" name="stop" finished-at="2021-07-15T21:19:23 IST" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- librariesTest.testlogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

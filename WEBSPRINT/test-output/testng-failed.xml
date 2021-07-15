@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="librariesTest.testlogin">
+        <methods>
+          <include name="initialization"/>
+          <include name="Text_Found_or_Not"/>
+          <include name="appointments"/>
+          <include name="article_text"/>
+          <include name="health_blog_quotation"/>
+          <include name="hi_name"/>
+          <include name="health_blog"/>
+          <include name="stop"/>
+          <include name="meds"/>
+          <include name="article_quotation"/>
+          <include name="labtests"/>
+          <include name="image_present_or_not"/>
+        </methods>
+      </class> <!-- librariesTest.testlogin -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

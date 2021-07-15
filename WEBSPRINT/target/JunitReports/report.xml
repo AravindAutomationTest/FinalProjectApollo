@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="118.702">
+    <testcase classname="Headers" name="To verify headers" time="118.348">
+        <system-out><![CDATA[Given Open the home page....................................................passed
+Given user enters valid mobile number.......................................passed
+Given user clicks on Generate OTP...........................................passed
+When user cliks on appointments.............................................passed
+Then user navigates to book appointments page...............................passed
+When user clicks on health..................................................passed
+Then user navigates to health records.......................................passed
+When user clicks on medicine................................................passed
+Then user navigates to  medicines and essentials............................passed
+When user clicks on labtests................................................passed
+Then user navigates to book labtests........................................passed
+When user clicks on covid19.................................................passed
+Then user navigates to covid19 page.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
